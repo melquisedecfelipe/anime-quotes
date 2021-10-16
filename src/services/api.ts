@@ -3,7 +3,7 @@ import axios from 'axios'
 type QuoteAtomResponse = {
   anime: number
   character: string
-  quote: number
+  quote: string
 }
 
 const api = axios.create({
