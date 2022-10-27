@@ -55,3 +55,5 @@ $ yarn dev
 This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/anime-quotes/blob/master/LICENSE) for more information.
 
 ---
+
+:wave: [Get in touch!](https://www.linkedin.com/in/melquisedecfelipe/)
