@@ -35,6 +35,8 @@ export const Wrapper = styled.button<WrapperProps>`
     text-transform: uppercase;
     transition: 0.3s ease-in-out;
     width: max-content;
+    position: fixed;
+    bottom: 10%;
 
     > svg {
       height: 20px;
